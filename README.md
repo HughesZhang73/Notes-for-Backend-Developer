@@ -41,7 +41,7 @@ A notes for Server/Back-end Sofrware Developer
 * [https://github.com/yuanxiaosc/Find-a-Machine-Learning-Job](https://github.com/yuanxiaosc/Find-a-Machine-Learning-Job)
 * [https://github.com/wangyuGithub01/Machine\_Learning\_Resources](https://github.com/wangyuGithub01/Machine_Learning_Resources)
 * [https://github.com/DigAPieceOfDay/DataAnalysisCommonProblem](https://github.com/DigAPieceOfDay/DataAnalysisCommonProblem)
-* 未完....
+* 数据库系统实现\(第二版\)  ISBN: 978-7-111-30287-2
 
 ## 感谢前辈们在知识开源的无私奉献，本人水平有限，欢迎[github issue](https://github.com/HughesZhang73/Notes-for-Back-end-Developer/issues)中留言探讨
 

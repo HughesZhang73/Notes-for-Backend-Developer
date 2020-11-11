@@ -16,21 +16,18 @@
   * [Chapter 1 Network Layer](0-computer-foundation/0.2-computer-networks/0.2.2-network-layer.md)
   * [Chapter 2 Transport Layer](0-computer-foundation/0.2-computer-networks/0.2.3-transport-layer.md)
   * [Chapter 3 Application Layer](0-computer-foundation/0.2-computer-networks/0.2.4-application-layer.md)
-
----
-
-* [Computer Operation System](0.3-operating-system.md)
-* [Database](0.4-database.md)
-* [Mysql](0.4.1mysql/README.md)
-  * [数据库原理](0.4.1mysql/0.4.1.1-database-introduction.md)
-  * [数据库引擎](0.4.1mysql/0.4.1.2-database-engine.md)
-  * [数据库事务](0.4.1mysql/0.4.1.3-database--transaction.md)
-  * [数据库索引](0.4.1mysql/0.4.1.4-database-index.md)
-  * [并发控制](0.4.1mysql/0.4.1.5-database-concurrency-control.md)
-  * [数据库安装](0.4.1mysql/0.4.1.6-database-install.md)
-  * [数据库表的操作](0.4.1mysql/0.4.1.7-alter-table.md)
-* [Redis](0.4.2-redis.md)
-* [MongoDB](0.4.3-mongodb.md)
+* [Operating System](0-computer-foundation/0.3-operating-system-1.md)
+* [Database](0-computer-foundation/0.4-database/README.md)
+  * [Mysql](0-computer-foundation/0.4-database/0.4.1mysql/README.md)
+    * [数据库原理](0-computer-foundation/0.4-database/0.4.1mysql/0.4.1.1-database-introduction.md)
+    * [数据库引擎](0-computer-foundation/0.4-database/0.4.1mysql/0.4.1.2-database-engine.md)
+    * [数据库事务](0-computer-foundation/0.4-database/0.4.1mysql/0.4.1.3-database--transaction.md)
+    * [数据库索引](0-computer-foundation/0.4-database/0.4.1mysql/0.4.1.4-database-index.md)
+    * [并发控制](0-computer-foundation/0.4-database/0.4.1mysql/0.4.1.5-database-concurrency-control.md)
+    * [数据库安装](0-computer-foundation/0.4-database/0.4.1mysql/0.4.1.6-database-install.md)
+    * [数据库表的操作](0-computer-foundation/0.4-database/0.4.1mysql/0.4.1.7-alter-table.md)
+  * [Redis](0-computer-foundation/0.4-database/0.4.2-redis.md)
+  * [MongoDB](0-computer-foundation/0.4-database/0.4.3-mongodb.md)
 
 ## 高级语言 ADVANCE LANGUAGE <a id="1-advance-language"></a>
 

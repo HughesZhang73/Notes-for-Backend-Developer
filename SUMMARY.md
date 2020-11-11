@@ -19,7 +19,7 @@
 
 ---
 
-* [Computer Operation System](0.3-computer-operation-system-1.md)
+* [Computer Operation System](0.3-operating-system.md)
 * [Database](0.4-database.md)
 * [Mysql](0.4.1mysql/README.md)
   * [数据库原理](0.4.1mysql/0.4.1.1-database-introduction.md)

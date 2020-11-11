@@ -19,7 +19,7 @@
 
 ---
 
-* [Computer Operation System](0.3-computer-operation-system-1.md)
+* [Computer Operation System](0.3-operating-system.md)
 * [Database](0.4-database.md)
 * [Mysql](0.4.1mysql/README.md)
   * [数据库原理](0.4.1mysql/0.4.1.1-database-introduction.md)
@@ -32,34 +32,34 @@
 * [Redis](0.4.2-redis.md)
 * [MongoDB](0.4.3-mongodb.md)
 
-## 高级语言 ADVANCE LANGUAGE
+## 高级语言 ADVANCE LANGUAGE <a id="1-advance-language"></a>
 
-* [Python](gao-ji-yu-yan-advance-language/python.md)
-* [C](gao-ji-yu-yan-advance-language/c.md)
-* [JAVA](gao-ji-yu-yan-advance-language/java.md)
-* [C++](gao-ji-yu-yan-advance-language/c++.md)
-* [JavaScript](gao-ji-yu-yan-advance-language/javascript/README.md)
-  * [Untitled](gao-ji-yu-yan-advance-language/javascript/untitled.md)
+* [Python](1-advance-language/1.1-python.md)
+* [C](1-advance-language/1.2-c.md)
+* [JAVA](1-advance-language/1.3-java.md)
+* [C++](1-advance-language/1.4-c++.md)
+* [JavaScript](1-advance-language/1.5-javascript/README.md)
+  * [Untitled](1-advance-language/1.5-javascript/untitled.md)
 
-## 软件设计 SOFTWARE DESIGN
+## 软件设计 SOFTWARE DESIGN <a id="2-software-design"></a>
 
-* [Part 1 Design Pattern](ruan-jian-she-ji-software-design/part-1-design-pattern.md)
-* [Part 2 Software Architecture](ruan-jian-she-ji-software-design/part-2-software-architecture.md)
+* [Design Pattern](2-software-design/2.1-design-pattern.md)
+* [Software Architecture](2-software-design/2.2-software-architecture.md)
 
-## 框架 FRAMEWORK
+## 框架 FRAMEWORK <a id="3-software-design"></a>
 
-* [Python Web: Django](kuang-jia-framework/python-web-django.md)
-* [Python Web: Flask](kuang-jia-framework/python-web-flask.md)
+* [Python Web: Django](3-software-design/python-web-django.md)
+* [Python Web: Flask](3-software-design/python-web-flask.md)
 
-## 人工智能 ARTIFICIAL INTELLENGENCE <a id="artificial-intellengence"></a>
+## 人工智能 ARTIFICIAL INTELLENGENCE <a id="4-artificial-intellengence"></a>
 
-* [Machine Learning](artificial-intellengence/machine-learning.md)
-* [Reinforcement Learning](artificial-intellengence/reinforcement-learning.md)
-* [Deep Learning](artificial-intellengence/deep-learning.md)
+* [Machine Learning](4-artificial-intellengence/4.1-machine-learning.md)
+* [Reinforcement Learning](4-artificial-intellengence/4.2-reinforcement-learning.md)
+* [Deep Learning](4-artificial-intellengence/4.3-deep-learning.md)
 
-## 大数据 BIG DATA <a id="big-data"></a>
+## 大数据 BIG DATA <a id="5-big-data"></a>
 
-## 安全技术 SECURITY <a id="cyber-security"></a>
+## 安全技术 SECURITY <a id="6-cyber-security"></a>
 
-## 云计算 Cloud Computing <a id="cloud-computing"></a>
+## 云计算 Cloud Computing <a id="7-cloud-computing"></a>
 

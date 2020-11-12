@@ -51,7 +51,8 @@
 ## 人工智能 ARTIFICIAL INTELLENGENCE <a id="4-artificial-intellengence"></a>
 
 * [Machine Learning](4-artificial-intellengence/4.1-machine-learning.md)
-* [Reinforcement Learning](4-artificial-intellengence/4.2-reinforcement-learning.md)
+* [Reinforcement Learning](4-artificial-intellengence/4.2-reinforcement-learning/README.md)
+  * [Introduction](4-artificial-intellengence/4.2-reinforcement-learning/4.2.1-introduction.md)
 * [Deep Learning](4-artificial-intellengence/4.3-deep-learning.md)
 
 ## 大数据 BIG DATA <a id="5-big-data"></a>
